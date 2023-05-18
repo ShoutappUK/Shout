@@ -1,6 +1,6 @@
 const Paths = {
-  Root: '/',
-  Feed: '/',
+  Root: '/shout',
+  Feed: '/shout',
   SignIn: '/signin',
   SignUp: '/signup',
   Profile: '/profile',
