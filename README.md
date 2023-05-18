@@ -1,7 +1,4 @@
-
-
 # The app can be accessed from [http://shoutappuk.github.io/shout/](http://shoutappuk.github.io/shout/)
-
 # Otherwise the app can be hosted locally and built on your machine.
 
 Firstly, install Node.js and npm from [https://nodejs.org/en/download](https://nodejs.org/en/download).
