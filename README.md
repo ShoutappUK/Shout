@@ -1,8 +1,12 @@
-# For this project the app is hosted locally and so built on your machine.
+
+
+# The app can be accessed from [http://shoutappuk.github.io/shout/](http://shoutappuk.github.io/shout/)
+
+# Otherwise the app can be hosted locally and built on your machine.
 
 Firstly, install Node.js and npm from [https://nodejs.org/en/download](https://nodejs.org/en/download).
 
-Navigate to the COMP6241-CW2 directory. Then in the terminal:
+Navigate to the shout directory. Then in the terminal:
 
 Install yarn:
 ### `npm install --global yarn`
