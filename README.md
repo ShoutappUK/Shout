@@ -14,4 +14,4 @@ To install program dependencies:
 You can then run the web app by:
 ### `yarn start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/shout](http://localhost:3000/shout) to view it in the browser.
