@@ -1,0 +1,6 @@
+.tile_image {
+  object-position: top;
+  object-fit:cover;
+  overflow: hidden;
+  max-height:80%;
+}
