@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shout/static/css/main.6f08bdcd.css",
-    "main.js": "/shout/static/js/main.2612fdf8.js",
+    "main.js": "/shout/static/js/main.0d0142fb.js",
     "static/media/gucci.png": "/shout/static/media/gucci.79c18b24fb027c4db4a1.png",
     "static/media/prime.jpg": "/shout/static/media/prime.a319255ddc8434ac0b90.jpg",
     "static/media/Prime_crop.jpg": "/shout/static/media/Prime_crop.7d9e660bd1c911644951.jpg",
     "static/media/testSales.jpg": "/shout/static/media/testSales.8197a3b62991b37b063b.jpg",
     "index.html": "/shout/index.html",
     "main.6f08bdcd.css.map": "/shout/static/css/main.6f08bdcd.css.map",
-    "main.2612fdf8.js.map": "/shout/static/js/main.2612fdf8.js.map"
+    "main.0d0142fb.js.map": "/shout/static/js/main.0d0142fb.js.map"
   },
   "entrypoints": [
     "static/css/main.6f08bdcd.css",
-    "static/js/main.2612fdf8.js"
+    "static/js/main.0d0142fb.js"
   ]
 }
